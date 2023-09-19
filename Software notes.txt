@@ -1,0 +1,25 @@
+Computer that uses a website is a calleda server 
+
+Html css and javascript is what builds up a website 
+
+Java and Java script don't have anything in common
+
+Cookies store your data
+
+Jobs for software developers
+
+System admin
+
+Database engineer
+
+Back end databases 
+
+Front end databases 
+
+Full stack developers 
+
+Operations or dev-ops
+
+Testers [aka quality assurance]
+
+Designer 
